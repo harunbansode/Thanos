@@ -1,0 +1,2 @@
+# Thanos
+University finder app
